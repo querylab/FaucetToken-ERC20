@@ -70,7 +70,7 @@ $ npm start
 http://localhost:3000/
 
 ```
-<a href="https://imgur.com/D65LBVR"><img src="https://i.imgur.com/D65LBVR.gif" title="source: imgur.com" /></a>
+<a href="https://imgur.com/YUDPqZu"><img src="https://i.imgur.com/YUDPqZu.gif" title="source: imgur.com" /></a>
 
 
 
