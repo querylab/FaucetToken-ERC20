@@ -1,0 +1,91 @@
+body {
+  background: url("./images/bit1.png");
+  /*background: url("./images/scarlet.png") no-repeat, url("./images/bg-1.png") no-repeat;  */ 
+  background-color: #000000;
+  color: white;
+}
+
+
+.title {
+  color: #f7c04a;
+  margin-bottom: 1rem;
+  font-family: "berlin sans fb", Arial, sans-serif;
+}
+.box {
+  margin-top: 50px;
+}
+
+.panel {
+  margin-top: 2em;
+}
+
+.panel-heading {
+  background-image: linear-gradient(to left,#38052F, #070709);
+  background-color: black;
+  color: white;
+}
+
+.address-box {
+  padding: 3em;
+}
+
+.box .title {
+  color: #333;
+}
+
+.navbar {
+  background-color: white;
+}
+
+.navbar .navbar-item {
+  color: white !important;
+}
+
+.connect-wallet span {
+  color: #fff;
+}
+
+.connect-wallet:hover {
+  background-color: #e1e1e1 !important;
+}
+
+.container.main-content {
+  max-width: 1000px !important;
+}
+
+.faucet-hero-body {
+  margin-top: 100px;
+}
+
+.withdraw-error {
+  color: red;
+}
+
+.withdraw-success {
+  color: #f7c04a;
+  font-weight: bold;
+  font-family: "Berlin Sans FB", sans-serif;
+  
+}
+
+
+
+
+
+
+
+
+
+.button-hovered {
+  background-color: #f7c04a;
+  background: #f7c04a;
+  color: #fff !important;
+}
+
+
+
+
+
+
+
+
